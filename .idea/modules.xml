@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Factorials/Factorials.iml" filepath="$PROJECT_DIR$/Factorials/Factorials.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lists/Lists.iml" filepath="$PROJECT_DIR$/Lists/Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palindromes/Palindromes.iml" filepath="$PROJECT_DIR$/Palindromes/Palindromes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecursionAndDataStructures.iml" filepath="$PROJECT_DIR$/RecursionAndDataStructures.iml" />
       <module fileurl="file://$PROJECT_DIR$/Trees/Trees.iml" filepath="$PROJECT_DIR$/Trees/Trees.iml" />

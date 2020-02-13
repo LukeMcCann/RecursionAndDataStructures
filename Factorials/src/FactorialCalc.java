@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class factorialCalc {
+public class FactorialCalc {
 
     private static BufferedReader In = new BufferedReader( new InputStreamReader(System.in));
 
